@@ -1,0 +1,33 @@
+#header {
+    background-image: url("/photos/Snipaste_2020-09-02_20-14-34.png");
+    background-repeat: no-repeat;
+    background-size: 700px ;
+    color: white;
+    text-align: center;
+    
+}
+
+.head-text {
+    margin: 100px;
+}
+
+#photos {
+    background-color: black;
+    display: inline-block;
+    padding: 30px;
+    margin: 0px 0px;
+}
+
+.photo-line {
+    margin: 20px;
+}
+
+.photo {
+    margin: 10px 20px;
+    
+}
+
+body {
+    background-color: gray;
+}
+
